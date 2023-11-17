@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dalia Mohammed</h1>
-<h3 align="center">Frontend Developer Angular</h3>
+<h3 align="center">Frontend Developer Angular.JS</h3>
 
 
-- 💬 Ask me about **Frontend / Web Development**
+- 💬 Ask me about **JavaScript , Angular.JS**
 
 - 📫 How to reach me **dalia.19.7@gmail.com**
 
