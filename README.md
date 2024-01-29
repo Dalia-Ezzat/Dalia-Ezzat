@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dalia Mohammed</h1>
-<h3 align="center">Frontend Developer Angular.JS</h3>
+<h3 align="center">Frontend Developer Angular</h3>
 
 
 - 💬 Ask me about **JavaScript , Angular**
