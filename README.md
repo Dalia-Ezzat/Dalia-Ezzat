@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer Angular.JS</h3>
 
 
-- 💬 Ask me about **JavaScript , Angular.JS**
+- 💬 Ask me about **JavaScript , Angular**
 
 - 📫 How to reach me **dalia.19.7@gmail.com**
 
